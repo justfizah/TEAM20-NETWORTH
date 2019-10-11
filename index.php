@@ -98,7 +98,7 @@
 
         <div class="wrapper">
             <p>Net-worth is an important asset to every individual, it helps you to know your assets and liabilities.Here at NETWORTH,we ensure to help you calcuate your networth with convienience and give you the best experience you could ask for, click below to get started.</p>
-            <img src="NWT_7.jpg" width="85%" />
+            <img src="images/NWT_7.jpg" width="85%" />
         </div>
 
         <button class="btn mb-sm-1 mb-md-0">
