@@ -110,7 +110,7 @@ include("process/contact_process.php");
                 </div>
                 <div
                     class="row  pt-3 pb-1 align-self-center m-auto bor col-md-5 mb-5"
-                    style="min-height: 50vh;background-color: rgb(14, 34, 56);box-shadow:  -10px  5px 10px gray;"
+                    style="min-height: 50vh;max-width: 60vh; background-color: rgb(14, 34, 56);box-shadow:  -10px  5px 10px gray;"
                 >
                     <div
                         class=" align-self-center text-center pb- col-md-12"
@@ -213,7 +213,7 @@ include("process/contact_process.php");
                                         
                                     </div>
                                     <h6 style="color: white; margin-top: 15px;"> TERMS AND CONDITIONS</h6>
-                                    <p style="color:white; margin:0; padding:0">By using our net-worth app you automatically give us the permission to make use of the sign up data you inputed for further research.</p>
+                                    <iv style="color:white; margin:0; padding:0">By using our net-worth app you automatically give us the permission to make use of the sign up data you inputed for further research.</i>
 
                                 </div>
 
